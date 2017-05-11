@@ -1,0 +1,14 @@
+{
+    "name": "aidaskni/simplechat",
+    "description": "simple chat",
+    "type": "package",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Aidas Knistautas",
+            "email": "knsitautasaidas@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

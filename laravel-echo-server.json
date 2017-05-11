@@ -1,0 +1,27 @@
+{
+	"authHost": "http://simplechat.dev",
+	"authEndpoint": "/broadcasting/auth",
+	"clients": [
+		{
+			"appId": "62b9073a3a6b193f",
+			"key": "f23241d79f70f5ef68e8ccbc60e66b9d"
+		}
+	],
+	"database": "redis",
+	"databaseConfig": {
+		"redis": {
+			"port": "6379",
+			"host": "localhost"
+		},
+		"sqlite": {
+			"databasePath": "/database/laravel-echo-server.sqlite"
+		}
+	},
+	"devMode": true,
+	"host": "simplechat.dev",
+	"port": "6001",
+	"protocol": "http",
+	"socketio": {},
+	"sslCertPath": "",
+	"sslKeyPath": ""
+}
